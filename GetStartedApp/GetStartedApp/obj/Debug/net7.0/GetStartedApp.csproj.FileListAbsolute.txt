@@ -1,0 +1,15 @@
+D:\csharp-practice\GetStartedApp\GetStartedApp\bin\Debug\net7.0\GetStartedApp.exe
+D:\csharp-practice\GetStartedApp\GetStartedApp\bin\Debug\net7.0\GetStartedApp.deps.json
+D:\csharp-practice\GetStartedApp\GetStartedApp\bin\Debug\net7.0\GetStartedApp.runtimeconfig.json
+D:\csharp-practice\GetStartedApp\GetStartedApp\bin\Debug\net7.0\GetStartedApp.dll
+D:\csharp-practice\GetStartedApp\GetStartedApp\bin\Debug\net7.0\GetStartedApp.pdb
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\GetStartedApp.csproj.AssemblyReference.cache
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\GetStartedApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\GetStartedApp.AssemblyInfoInputs.cache
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\GetStartedApp.AssemblyInfo.cs
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\GetStartedApp.csproj.CoreCompileInputs.cache
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\GetStartedApp.dll
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\refint\GetStartedApp.dll
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\GetStartedApp.pdb
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\GetStartedApp.genruntimeconfig.cache
+D:\csharp-practice\GetStartedApp\GetStartedApp\obj\Debug\net7.0\ref\GetStartedApp.dll
